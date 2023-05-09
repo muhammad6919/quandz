@@ -1,0 +1,2 @@
+# quandz
+scripts scam
